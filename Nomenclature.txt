@@ -1,0 +1,25 @@
+naming Abrevation used in project:
+
+    gcv_modelname   : gcv_lr , gcv_dct
+    gcv_modelname_d : gcv_lr_d, 
+    kfold
+    
+    modal name : 
+        LogisticRegression        : lr
+        KNNeighbourClassification : knn
+        
+    
+    Scalar :
+        StandardScalar            : std_scalar
+        MinMaxScalar              : mm_scalar
+    
+    
+    best_score :
+        default score - lr model     : d_score_lr
+        best score - tunned lr model : best_score_lr
+        
+    best_param :
+	default param of lr model     : d_param_lr
+        best param of tunned lr model : best_param_lr
+    
+    
